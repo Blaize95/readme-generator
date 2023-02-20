@@ -4,7 +4,7 @@
 ![GitHub](https://img.shields.io/badge/license-MIT-yellow.svg)
 
 ## Description
-In this project, I was tasked with creating a project ReadMe generator, which takes user answers to important project information and displays them in a professional README.md file. This was achieved by using prompts within the Inquirer package..
+In this project, I was tasked with creating a project ReadMe generator, which takes user answers to important project information and displays them in a professional README.md file. This was achieved by using prompts within the Inquirer package. A video showing how to use this application can be viewed using the following link: https://drive.google.com/file/d/1Qho2eZ2pA9xRII1loEQ5W9rcjTnwnjUg/view
 
 ## Table Of Contents
 * [Description](#description)
@@ -32,7 +32,7 @@ undefined
 This repository is licensed by MIT.
 
 ## Contributions
-Please follow these guidelines when contribution to this repostory: None..
+Please follow these guidelines when contribution to this repostory: None.
 
 ## Questions
 To see my other projects, please visit my GitHub profile [blaize95](https://github.com/blaize95).
