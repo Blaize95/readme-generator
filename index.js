@@ -18,7 +18,7 @@ ${description}.
 * [Credits](#credits)
 * [License](#license)
 * [Contributions](#contributions)
-* [Questions](#questionscontact)
+* [Questions](#questions)
 
 ## Installation
 ${installation}
